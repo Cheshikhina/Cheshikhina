@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>My position: Front-end developer</h2>
-<p>Location: Russia, Voronezh</p>
 <div>
   <h2> :hammer_and_wrench: Ussualy use in my works:</h2>
   <div>
@@ -29,6 +28,7 @@
 </div>
 <div>
   <h2>Contacts:</h2>
+  <p>Location: Russia, Voronezh</p>
   <ul>
     <li><a href="https://www.linkedin.com/in/daria-cheshikhina-3697141b1/" rel="nofollow">Linkedin</a></li>
     <li><a href="https://t.me/Daria_Sy" rel="nofollow">Telegram</a></li>
